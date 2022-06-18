@@ -1,0 +1,12 @@
+{
+    "private_token": "xxxxxxxxxx",
+    "gitlab_url": "http://code.xx.com/",
+    "start_time": "2022-04-01",
+    "project": [
+        "NEW-RETAIL/new-retail-life-service",
+        "NEW-RETAIL/new-retail-catering-format-container"
+    ],
+    "alias": {
+        "sunlongshuai-xphl": "display name"
+    }
+}
